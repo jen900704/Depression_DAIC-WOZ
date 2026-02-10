@@ -1,0 +1,9 @@
+content/
+models/
+wandb/
+__pycache__/
+*.wav
+*.csv
+*.pt
+*.safetensors
+*.slurm
